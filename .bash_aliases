@@ -10,3 +10,5 @@ alias sba="source ~/.bash_aliases"
 alias vb="vi ~/.bashrc"
 alias nb="nano ~/.bashrc"
 alias sb="source ~/.bashrc"
+alias cc="colcon build --symlink-install --continue-on-error --executor sequential"
+
