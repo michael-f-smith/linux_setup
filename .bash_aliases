@@ -14,4 +14,5 @@ alias sb="source ~/.bashrc"
 alias cc="colcon build --symlink-install --continue-on-error --executor sequential"
 alias cv="colcon build --symlink-install --event-handlers console_direct+"
 alias cls="conda info --env"
-alias dr="docker run -itd --network=host" # <container-name> bash
+alias dr="docker run -itd --network=host" # <image-name>
+alias de="docker exec -it " # <container-name> bash
