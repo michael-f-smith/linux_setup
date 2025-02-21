@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Apt packages to install
+sudo apt install -y gh \
+  vim
+
+# Gh login
+# Run gh auth login
+
 # Add bash_aliases location to bashrc
 #FILE="~/.bashrc"
 #if [ -f "$FILE" ]
