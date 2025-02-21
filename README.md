@@ -1,5 +1,8 @@
 # linux_setup
 
+# Setup
+Run the setup script to create symbolic link to bash_aliases.
+
 Things to Install
 ```
   sudo apt-get install terminator
