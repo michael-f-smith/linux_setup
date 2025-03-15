@@ -24,3 +24,6 @@ link_file="$HOME/.bash_aliases"
 echo "$aliases_file"
 echo "$link_file"
 ln -s "$aliases_file" "$link_file"
+
+# Source bashrc
+source ~/.bashrc
