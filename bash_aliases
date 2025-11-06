@@ -4,7 +4,7 @@
 
 ### System Aliases
 alias c="cd .. && ls"
-alias vba="vi ~/.bash_aliases"
+alias vba="vim ~/.bash_aliases"
 alias gba="gedit ~/.bash_aliases"
 alias nba="nano ~/.bash_aliases"
 alias sba="source ~/.bash_aliases"
